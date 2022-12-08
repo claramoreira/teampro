@@ -15,10 +15,11 @@ Since the idea is to create a very simple application, there will be little use 
 Because the idea is to create a very simple app at first, there will be few use cases at first.
 The user will only be able to:
 - Log onto the system
+- Create a team
 - Join a team
 - Resign from a team
 - See all the teams he or she currently participates in
 
-![Use-Case Diagram](https://github.com/claramoreira/teampro/blob/main/TeamPRO_UseCaseDiagram.png)
+![Use-Case Diagram](https://github.com/claramoreira/teampro/blob/main/TeamPRO_UseCaseDiagram.svg)
 
 
