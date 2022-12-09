@@ -26,3 +26,7 @@ The user will only be able to:
 
 ![UC01](https://github.com/claramoreira/teampro/blob/main/UseCasesDescriptions/img/UC01.png)
 
+
+#### Use-case UC02: Create a team
+
+![UC02](https://github.com/claramoreira/teampro/blob/main/UseCasesDescriptions/img/UC02.png)
