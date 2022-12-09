@@ -22,4 +22,7 @@ The user will only be able to:
 
 ![Use-Case Diagram](https://github.com/claramoreira/teampro/blob/main/TeamPRO_UseCaseDiagram.svg)
 
+#### Use-case UC01: Login
+
+![UC01](https://github.com/claramoreira/teampro/blob/main/UseCasesDescriptions/img/UC01.png)
 
