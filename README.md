@@ -22,11 +22,27 @@ The user will only be able to:
 
 ![Use-Case Diagram](http://www.plantuml.com/plantuml/png/LOz9QyCm44Rl-XKVkSVGB2aKOr9oAuMMTBbFvOaZgiL8uxPG-jyR1MFaanwyDs9cduIY3CugooU114JJdGMjYQp51Az8IuYu5yl2e0HIFUbFwXYlJExv-8HV1Go9DIN6uZ5qnYzo-7QuASKxMTEIC7fAwJl4TensPVHYEezf_hPKXyXvcY1CRWnMPV0GZ9_hTQcFdFBdfnZSlDhC5c06MGlIOhuOZjq7ntGsVHhhhVfJYh1SDld0YLOJhIVQJBHLbnPLbNa7tA6kZTTsQ3arpTNLLPKFlYh-4VPjDllBEpZx3m00)
 
-#### Use-case UC01: Login
+#### UC01: Login
 
 ![UC01](https://github.com/claramoreira/teampro/blob/main/UseCasesDescriptions/img/UC01.png)
 
 
-#### Use-case UC02: Create a team
+#### UC02: Create a team
 
 ![UC02](https://github.com/claramoreira/teampro/blob/main/UseCasesDescriptions/img/UC02.png)
+
+
+#### UC03: Join a team
+
+![UC03](https://github.com/claramoreira/teampro/blob/main/UseCasesDescriptions/img/UC03.png)
+
+
+#### UC04: Resign from a team
+
+![UC04](https://github.com/claramoreira/teampro/blob/main/UseCasesDescriptions/img/UC04.png)
+
+#### UC05: See all active memberships
+
+![UC05](https://github.com/claramoreira/teampro/blob/main/UseCasesDescriptions/img/UC05.png)
+
+> **UC06** (Validate password) and **UC07** (Sign in) will be described later.
