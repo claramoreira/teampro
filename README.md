@@ -1,4 +1,4 @@
-# TeamPro
+# TeamPRO
 
 TeamPro is an application idea to meet the need to form teams for group sports, such as football.
 The original idea is to build an app where people can find teams to play together.
@@ -20,7 +20,7 @@ The user will only be able to:
 - Resign from a team
 - See all the teams they currently participates in
 
-![Use-Case Diagram](http://www.plantuml.com/plantuml/png/LOz9QyCm44Rl-XKVkSVGB2aKOr9oAuMMTBbFvOaZgiL8uxPG-jyR1MFaanwyDs9cduIY3CugooU114JJdGMjYQp51Az8IuYu5yl2e0HIFUbFwXYlJExv-8HV1Go9DIN6uZ5qnYzo-7QuASKxMTEIC7fAwJl4TensPVHYEezf_hPKXyXvcY1CRWnMPV0GZ9_hTQcFdFBdfnZSlDhC5c06MGlIOhuOZjq7ntGsVHhhhVfJYh1SDld0YLOJhIVQJBHLbnPLbNa7tA6kZTTsQ3arpTNLLPKFlYh-4VPjDllBEpZx3m00)
+![Use-Case Diagram](http://www.plantuml.com/plantuml/png/LOz9QyCm44Rl-XKVkSVGB2cKO59oAuMMTBbFvOajgiL8uxPG-jyR1MFaanwyDsBca8IY3CugosU114JJTeB6HDPYWbUa9KJSIsTP69H0gYVzIItZbSazdvxmgu0XiQR4M3o6rlX53j-EDwLu9siQ4aPFANs7s8pHhenUJEinpT-MwXWvJnE4oOt1gWmUWl5plIxrYLF-_1o3crURsGBC86j1MimNmx7xu9WwqwUntge_fGZBPPqFd6WrqNgYpKHRTMbHLPbtm1tsU-Er7HfETNrr-whA1ryL_mZx9fl3vHsS_GS0)
 
 #### UC01: Login
 
