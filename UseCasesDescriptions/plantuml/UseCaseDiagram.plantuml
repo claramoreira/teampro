@@ -1,0 +1,21 @@
+@startuml
+left to right direction
+actor Atlete as a
+package TeamPRO {
+  usecase "Login" as UC1
+  usecase "Validate password" as UC6
+  usecase "Sign in" as UC7
+  usecase "Create a team" as UC2
+  usecase "Join a team" as UC3
+  usecase "Resign from a team" as UC4
+  usecase "See all active memberships" as UC5
+}
+
+a --> UC1
+a --> UC2
+a --> UC3
+a --> UC4
+a --> UC5
+UC1 ..> UC6  : <<includes>>
+UC1 <.. UC7 : <<extends>>
+@enduml
