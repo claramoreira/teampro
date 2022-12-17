@@ -18,9 +18,9 @@ The user will only be able to:
 - Create a team
 - Join a team
 - Resign from a team
-- See all the teams he or she currently participates in
+- See all the teams they currently participates in
 
-![Use-Case Diagram](https://github.com/claramoreira/teampro/blob/main/TeamPRO_UseCaseDiagram.svg)
+![Use-Case Diagram](http://www.plantuml.com/plantuml/png/LOz9QyCm44Rl-XKVkSVGB2aKOr9oAuMMTBbFvOaZgiL8uxPG-jyR1MFaanwyDs9cduIY3CugooU114JJdGMjYQp51Az8IuYu5yl2e0HIFUbFwXYlJExv-8HV1Go9DIN6uZ5qnYzo-7QuASKxMTEIC7fAwJl4TensPVHYEezf_hPKXyXvcY1CRWnMPV0GZ9_hTQcFdFBdfnZSlDhC5c06MGlIOhuOZjq7ntGsVHhhhVfJYh1SDld0YLOJhIVQJBHLbnPLbNa7tA6kZTTsQ3arpTNLLPKFlYh-4VPjDllBEpZx3m00)
 
 #### Use-case UC01: Login
 
