@@ -1,6 +1,6 @@
 @startuml
 left to right direction
-actor Atlete as a
+actor Athlete as a
 package TeamPRO {
   usecase "Login" as UC1
   usecase "Validate password" as UC6
