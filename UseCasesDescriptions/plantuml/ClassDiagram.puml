@@ -1,0 +1,38 @@
+@startuml
+class User {
+- id : int
+- name : String
+- password : String
+- email : String
+}
+
+class Team {
+- id : int
+- name : String
+}
+
+class Enrollment {
+- status : String
+- position : FieldPosition 
+- startDate : Date
+- endDate : Date
++ join() : void
++ resign() : void
+}
+
+
+enum FieldPosition {
+  GOALKEEPER
+  DEFENDER
+  MIDFIELDER
+  FORWARD
+}
+
+User"1..*" -- "1..*" Team
+(User, Team) .. Enrollment
+
+Enrollment -[hidden]> FieldPosition 
+
+
+
+@enduml
