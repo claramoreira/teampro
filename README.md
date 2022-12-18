@@ -46,3 +46,10 @@ The user will only be able to:
 ![UC05](https://github.com/claramoreira/teampro/blob/main/UseCasesDescriptions/img/UC05.png)
 
 > **UC06** (Validate password) and **UC07** (Sign in) will be described later.
+
+
+### Class Diagram
+
+![Class Diagram](http://www.plantuml.com/plantuml/png/5Ssn3SCm30NHFbCa2uXzAWFs2XdWHoPi0XGba1IoVkpggiDR8k4vcpvUObNdpjFrUMQEU1CvVkMGFETt1dljbcnPQczK5OxMdSL1oMZ3EpM8qITuHN1i7DLbf7GB6Wgx5LeL4PlWkEuoRdTXsw_-0G00)
+
+
